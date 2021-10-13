@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B20_Ex02", "B20_Ex02\B20_Ex02.csproj", "{4525BB93-B9BC-4378-9730-3FE8C56695B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF20D30A-F9D7-4E7E-A304-F9C88E206790}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile B20_Ex02.txt = TextFile B20_Ex02.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4525BB93-B9BC-4378-9730-3FE8C56695B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4525BB93-B9BC-4378-9730-3FE8C56695B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4525BB93-B9BC-4378-9730-3FE8C56695B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4525BB93-B9BC-4378-9730-3FE8C56695B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9543AEAF-DB99-48B6-8495-EB5CD2DC7A41}
+	EndGlobalSection
+EndGlobal
